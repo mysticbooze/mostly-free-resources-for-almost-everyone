@@ -931,6 +931,7 @@
 | [r/EatCheapAndHealthy](https://reddit.com/r/EatCheapAndHealthy) | A reddit community for eating cheap and heathy.              |
 | [Dotnom](https://www.dotnom.com/)                            | Very simple ingredient-to-recipe search engine.              |
 | [Food Wishes](https://foodwishes.blogspot.com/)              | Video recipes by Chef John.                                  |
+| [Them Bites](https://thembites.com/)                         | Easy, cheap, and delicious food recipes.                     |
 
 ### Play and Entertainment
 
